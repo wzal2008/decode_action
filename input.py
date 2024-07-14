@@ -1,3 +1,9 @@
+"""
+抖音极速版高收益版本
+6.26 修改版
+变量格式：cookie#iid#device_id
+变量名：dyjsb
+"""
 import bz2
 import lzma
 import base64
