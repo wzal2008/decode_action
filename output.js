@@ -1,4 +1,4 @@
-//Tue Jul 23 2024 23:51:22 GMT+0000 (Coordinated Universal Time)
+//Thu Jul 25 2024 07:05:28 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const $ = new Env("抖音极速版");
