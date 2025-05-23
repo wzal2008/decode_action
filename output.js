@@ -1,4 +1,4 @@
-//Fri May 23 2025 00:31:27 GMT+0000 (Coordinated Universal Time)
+//Fri May 23 2025 01:20:52 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 var 蛋炒饭_0x2714bf = "danchaofan";
